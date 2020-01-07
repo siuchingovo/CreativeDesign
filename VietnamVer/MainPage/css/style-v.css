@@ -96,7 +96,7 @@ header {
 }
 
 .menuBGimg {
-    opacity: 10%;
+    opacity: 5%;
     width: 320px;
     height: auto;
     align-items: center;
@@ -112,7 +112,7 @@ header {
     min-width: 320px;
     height: 393px;
     background-color: rgba(255,255,255,0.4);
-
+    z-index: 999;
 }
 
 .menuText{
